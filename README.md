@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi there, fellows 👋. It's me JustAPie (JustAPieOP)
+
+Well, as you can see in my bio. I'm just a noob Discord.JS developer, so you will see there's only JS/TS codes and some C++
 
 <!--
 **JustAPieOP/JustAPieOP** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
