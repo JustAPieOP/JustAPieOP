@@ -2,6 +2,10 @@
 
 Well, as you can see in my bio. I'm just a noob Discord.JS developer, so you will see there's only JS/TS codes and some C++
 
+You can check out my projects which i'm working on here:
+[JustADJ](https://github.com/JustAPieOP/JustADJ)
+[CaptchaBot](https://github.com/JustAPieOP/CaptchaBot)
+
 <!--
 **JustAPieOP/JustAPieOP** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
