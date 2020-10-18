@@ -8,7 +8,7 @@ You can check out my projects which i'm working on here:
 
 [CaptchaBot](https://github.com/JustAPieOP/CaptchaBot)
 
-- 📫 How to reach me: Add me on Discord `JustAPie#2670`
+[![JustAPie's github stats](https://github-readme-stats.vercel.app/api?username=JustAPieOP)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **JustAPieOP/JustAPieOP** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
