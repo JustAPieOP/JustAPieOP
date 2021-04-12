@@ -10,7 +10,7 @@
 
 </p>
 <div size='20px'> Hi! My name is JustAPie. Thank You for taking the time to view my GitHub Profile :smile: 
-<h2 align='center'> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
+<h2 align='center'> Connect with me </h2>
 <p align = 'center'>
 <a href = 'https://www.github.com/JustAPieOP'> <img width = '44px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a> 
 </p>
@@ -21,7 +21,7 @@
 <img width ='44px' align='center' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/typescript.svg'>
 <br>
 </p>
-<h2> About Me <img src = "https://media0.giphy.com/media/KDDpcKigbfFpnejZs6/giphy.gif?cid=ecf05e47oy6f4zjs8g1qoiystc56cu7r9tb8a1fe76e05oty&rid=giphy.gif" width = 100px></h2>
+<h2> About Me </h2>
 
 - 🔭 I’m currently working on CakeDJ and other Discord Bot
 
