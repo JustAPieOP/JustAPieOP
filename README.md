@@ -1,38 +1,10 @@
-<style>
-.tooltip {
-  position: relative;
-  display: inline-block;
-  border-bottom: 1px dotted black;
-}
-
-.tooltip .tooltiptext {
-  visibility: hidden;
-  width: 120px;
-  background-color: black;
-  color: #fff;
-  text-align: center;
-  padding: 5px 0;
-  border-radius: 6px;
-  position: absolute;
-  z-index: 1;
-}
-
-.tooltip:hover .tooltiptext {
-  visibility: visible;
-}
-</style>
-
 <h1 align="center">Hi 👋, I'm JustAPie</h1>
 <h3 align="center">Just a Discord Bot developer from Vietnam</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://fb.com/justapieop" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="justapieop" height="30" width="40" /></a>
- <div class="tooltip">Hover over me
-  <span class="tooltiptext">JustAPie#0001</span>
-  <a target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/discordapp/discordapp-icon.svg" alt="justapieop" height="30" width="40" /></a>
-</div>
-
+<a href="https://fb.com/justapieop" target="blank">Facebook</a>
+<a target="blank">Discord: JustAPie#0001</a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
