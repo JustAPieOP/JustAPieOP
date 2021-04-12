@@ -3,10 +3,8 @@
 <img width="100%" height = "100%" src="https://i.ibb.co/VNdM71q/mamako-pouting-by-lordcamelot2018-ddblloo-pre.jpg" alt="cover" />
 </div>
 
-<h1 align='center'> Hi there, fellows <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px> </h1>
+<h1 align='center'> Hi there, fellows </h1>
 <p align='center'>
-
-![visitors](https://visitor-badge.glitch.me/badge?page_id=JustAPieOP.JustAPieOP)
 
 </p>
 <div size='20px'> Hi! My name is JustAPie. Thank You for taking the time to view my GitHub Profile :smile: 
