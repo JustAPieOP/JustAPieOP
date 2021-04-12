@@ -4,7 +4,7 @@
 <h3 align="left">Connect with me:</h3>
 <p>
   Facebook: <a href="https://facebook.com/justapieop">Pie</a>
-  <a>Discord: JustAPie#0001</a>
+  Discord: JustAPie#0001
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
