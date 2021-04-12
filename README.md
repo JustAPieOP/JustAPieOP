@@ -3,7 +3,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p>
-  <a>Facebook: <a href="https://facebook.com/justapieop">Pie</a> </a>
+  Facebook: <a href="https://facebook.com/justapieop">Pie</a>
   <a>Discord: JustAPie#0001</a>
 </p>
 
