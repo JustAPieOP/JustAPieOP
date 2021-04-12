@@ -1,26 +1,14 @@
-### Hi there, fellows 👋. It's me JustAPie (JustAPieOP)
+<h1 align="center">Hi 👋, I'm JustAPie</h1>
+<h3 align="center">Just a Discord Bot developer from Vietnam</h3>
 
-Well, as you can see in my bio. I'm just a noob Discord.JS developer, so you will see there's only JS/TS codes and some C++
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://fb.com/justapieop" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="justapieop" height="30" width="40" /></a>
+</p>
 
-You can check out my projects which i'm working on here:
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
 
-[JustADJ](https://github.com/JustAPieOP/JustADJ)
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=justapieop&show_icons=true&locale=en&layout=compact" alt="justapieop" /></p>
 
-[CaptchaBot](https://github.com/JustAPieOP/CaptchaBot)
-
-![JustAPie's github stats](https://github-readme-stats.vercel.app/api?username=JustAPieOP&show_icons=true&theme=radical)
-
-<!--
-**JustAPieOP/JustAPieOP** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=justapieop&show_icons=true&locale=en" alt="justapieop" /></p>
