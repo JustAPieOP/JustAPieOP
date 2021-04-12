@@ -11,4 +11,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=JustAPieOP&show_icons=true&theme=radical" alt="justapieop" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=justapieop&show_icons=true&locale=en&theme=radical" alt="justapieop" /></p>
+<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=justapieop&show_icons=true&locale=en&theme=radical" alt="justapieop" /></p>
